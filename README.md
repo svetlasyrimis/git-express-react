@@ -51,7 +51,7 @@ Update the `dev` to be the default branch.
 
 7. In **Settings**, under **Manage Access**, add your team members.
 
-8. Create a group chat in Slack and and share the link of **your fork** with your team.
+8. Create a group chat in Slack and and share the link of **the new repo** with your team.
 
 9. Your team members should have received an invitation to collaborate via email.
 
