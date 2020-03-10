@@ -21,7 +21,7 @@ Once settled in your groups decide who will be the **Git Czar**.
   
   1.3. Set(or change) the remote of the cloned repo to your new repo.
   
-  `git remote set-url https://github.com/your-username/name-of-the-new-repo`
+  `git remote set-url origin https://github.com/your-username/name-of-the-new-repo`
   
   1.4. Add, commit and push to master
   
